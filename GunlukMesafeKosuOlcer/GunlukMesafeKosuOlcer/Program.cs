@@ -10,6 +10,7 @@ namespace GunlukMesafeKosuOlcer
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" ");
         }
     }
 }
